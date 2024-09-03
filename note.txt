@@ -1,0 +1,5 @@
+abaqus:
+- vị trí động cơ
+- vật liệu thanh đỡ động cơ
+- cơ cấu nửa băng truyền và cả băng truyền
+- độ lớn đế

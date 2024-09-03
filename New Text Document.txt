@@ -1,0 +1,11 @@
+Oy: 1507mm -> 155cm
+Ox: 196 - 52.3 + 600 = 743.7 -> 75cm
+độ dày thanh trượt 12mm
+mua: 
+máy nén khí mini
+Tiền mua linh kiện: 
+- 350k + 308k + 80k + 160k + 60k + 
+
+300 epochs đầu: klsoqt06 / khiem.luongdinh
+300 epoch cuối: klsoqt08
+test mới: klsoqt12
